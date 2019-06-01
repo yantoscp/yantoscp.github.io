@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yantos.github.io</id>
+    <title>YANTOS</title>
+    <updated>2019-06-01T21:24:28.039Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://yantos.github.io"/>
+    <link rel="self" href="https://yantos.github.io/atom.xml"/>
+    <subtitle>YANTOS CREATIVE PRODUCT</subtitle>
+    <logo>https://yantos.github.io/images/avatar.png</logo>
+    <icon>https://yantos.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2019, YANTOS</rights>
+</feed>
