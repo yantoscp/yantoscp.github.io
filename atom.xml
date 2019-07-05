@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yantoscp.github.io</id>
     <title>YANTOS</title>
-    <updated>2019-06-05T03:20:47.840Z</updated>
+    <updated>2019-07-05T02:38:42.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yantoscp.github.io"/>
     <link rel="self" href="https://yantoscp.github.io/atom.xml"/>
@@ -10,4 +10,13 @@
     <logo>https://yantoscp.github.io/images/avatar.png</logo>
     <icon>https://yantoscp.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, YANTOS</rights>
+    <entry>
+        <title type="html"><![CDATA[JUST A TEST]]></title>
+        <id>https://yantoscp.github.io/post/just-a-test</id>
+        <link href="https://yantoscp.github.io/post/just-a-test">
+        </link>
+        <updated>2019-07-04T13:37:30.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://yantoscp.github.io/post-images/1562294317465.jpg" alt=""></p>
+]]></content>
+    </entry>
 </feed>
